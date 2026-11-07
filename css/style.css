@@ -1,0 +1,19 @@
+/* ═══ ЭТАП 1 · ОСНОВА: цвета, шрифты, контейнер ═══ */
+:root {
+  --cream: #f7f1e8;
+  --paper: #fffdf9;
+  --espresso: #2a1b12;
+  --roast: #6b4226;
+  --caramel: #d08a3e;
+  --caramel-dark: #b06f28;
+  --muted: #8a7563;
+  --line: #eadfd1;
+  --green: #4f7a3f;
+  --red: #c0392b;
+  --radius: 22px;
+  --shadow: 0 18px 40px -22px rgba(42, 27, 18, 0.45);
+  --font-head: "Unbounded", system-ui, sans-serif;
+  --font-body: "Manrope", system-ui, sans-serif;
+}
+
+/* ↓ Дальше — ваши стили по шагам MARATHON.md */
